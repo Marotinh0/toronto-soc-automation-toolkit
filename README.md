@@ -4,6 +4,12 @@ A dependency-free Python toolkit that demonstrates the building blocks of a **SO
 
 > **Portfolio project** · created April 2026 · v2.0 modernised October 2026 · by **Marotinho**
 > Forked from [Aceknight4/security-toolkit](https://github.com/Aceknight4/security-toolkit) and heavily improved.
+>
+> # soc_toolkit.py uses ONLY the Python standard library (Python 3.9+).
+# Nothing to install to run it.
+#
+# Optional, for running the tests with pytest instead of unittest:
+# pytest>=8.0
 
 ---
 
